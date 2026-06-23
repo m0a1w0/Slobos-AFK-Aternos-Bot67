@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "goonsmp-0J28.aternos.me",
+    "ip": "goonsmp-0J28.aternos.me:42068",
     "port": 42068,
     "version": "",
     "try-creative": false
